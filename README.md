@@ -57,6 +57,33 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+📦 ## Features
+
+Create products (batch support)
+
+List all products
+
+Update product by ID
+
+Delete product by ID
+
+Input validation using DTOs
+
+Auto-generated API documentation with Swagger
+
+🚀 ## Tools
+
+NestJS
+
+TypeScript
+
+Swagger (OpenAPI)
+
+Node.js
+
+Jest for testing (if applicable)
+
+
 ## Deployment
 
 When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
